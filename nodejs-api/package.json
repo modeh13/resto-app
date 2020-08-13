@@ -1,0 +1,14 @@
+{
+  "name": "resto-api",
+  "version": "1.0.0",
+  "description": "Resto API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Resto"
+  ],
+  "author": "German A. Ramirez Vela",
+  "license": "MIT"
+}
